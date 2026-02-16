@@ -1,0 +1,23 @@
+{
+  "name": "fsd-6-sem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohanjainwal11/FSD_6sem_IT-E_Rohan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rohanjainwal11/FSD_6sem_IT-E_Rohan/issues"
+  },
+  "homepage": "https://github.com/Rohanjainwal11/FSD_6sem_IT-E_Rohan#readme",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
